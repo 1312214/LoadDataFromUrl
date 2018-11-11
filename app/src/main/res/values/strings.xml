@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LoadDataFromUrl</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="download">download</string>
+    <string name="no_content">no content</string>
+</resources>
